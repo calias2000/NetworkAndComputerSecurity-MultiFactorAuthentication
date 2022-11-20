@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "502124711338",
+    "project_id": "tokenapp-6474a",
+    "storage_bucket": "tokenapp-6474a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502124711338:android:259727a657bd8d5e33afd3",
+        "android_client_info": {
+          "package_name": "fr.ghizmo.mfapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502124711338-7vioet2drjaqnjapcriob7dai9ep7e3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.ghizmo.mfapp",
+            "certificate_hash": "34562ccabb7a70efbc980e622216211c51b60313"
+          }
+        },
+        {
+          "client_id": "502124711338-lga7r4eqqua16vn01r55p1ghenabt8b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvUC6pYXqlo1xNNB2zAwOqO-AFfoqibw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502124711338-lga7r4eqqua16vn01r55p1ghenabt8b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

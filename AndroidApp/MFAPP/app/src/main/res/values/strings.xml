@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MFAPP</string>
+    <string name="token_verif">MFAPP - Token Generation</string>
+    <string name="token_msg">Put this token to login on the website.</string>
+    <string name="token_phone_number">Token:</string>
+
+    <string name="login">Login</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+</resources>

@@ -1,0 +1,106 @@
+/* Made with love by Mutiullah Samim*/
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+background-image: url('https://www.qinetiq.com/-/media/3e96ea63659b438f94eb2a368602a4dd.ashx?h=500&optimize=0&w=1110&la=en&hash=403B4FFA08D7698B3A1B49AA8375FF5C');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+}
+
+.container{
+height: 100%;
+align-content: center;
+}
+
+.card{
+height: 325px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.75) !important;
+
+}
+
+.card2{
+height: 450px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.75) !important;
+
+}
+
+.card3{
+height: 200px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.75) !important;
+
+}
+
+.card4{
+    height: 350px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0,0,0,0.75) !important;
+    
+    }
+
+.card5{
+    height: 300px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0,0,0,0.75) !important;
+    
+    }
+
+.card-header h3{
+color: white;
+}
+
+.textt h6 {
+    color: white;
+}
+
+
+input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+
+}
+
+.login_btn{
+color: black;
+background-color: #1DA1F2;
+width: 360px;
+}
+
+.register_btn{
+color: black;
+background-color: #1DA1F2;
+width: 360px;
+}
+
+.login_btn:hover{
+color: black;
+background-color: white;
+}
+
+.register_btn:hover{
+color: black;
+background-color: white;
+}
+
+.links{
+color: white;
+}
+
+.links a{
+margin-left: 4px;
+}
